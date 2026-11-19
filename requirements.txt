@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+numpy
+opencv-python
+PyYAML
+Pillow
+scikit-learn
+tqdm
+matplotlib
+safetensors
